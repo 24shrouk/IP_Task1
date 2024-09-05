@@ -2,7 +2,7 @@
 
 Counter App 
 
-This is my project. Below is a screenshot of the project interface:
+This is my project. Below is a video of the project interface you can download :
 
 
 [Watch the video](Task1Video.mp4)
