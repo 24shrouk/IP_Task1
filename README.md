@@ -6,7 +6,6 @@ This is my project. Below is a screenshot of the project interface:
 
 
 
-![Project Image](Screenshot%20(109).png)
 
 
 ## Getting Started
