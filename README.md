@@ -5,6 +5,13 @@ Counter App
 This is my project. Below is a screenshot of the project interface:
 
 
+<video width="600" controls>
+  <source src="Task1Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
 
 
 
