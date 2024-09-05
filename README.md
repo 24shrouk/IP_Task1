@@ -3,7 +3,7 @@
 Counter App 
 
 This is my project. Below is a screenshot of the project interface:
-![Project Image](assets/ Screenshot (109).png)
+![Project Image](Screenshot (109).png)
 
 ## Getting Started
 
